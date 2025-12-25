@@ -2,57 +2,163 @@
 
 > *to the future, with clarity.*
 
-Hey! Welcome to **Avenire** — a small-but-determined effort to make learning and thinking way better using AI. We’re building stuff we wish existed when we were trying to figure things out. Tools that help you not just *memorize*, but *actually understand*.
+Avenire is a learning system built around two ideas that should never have been separate:
+**intelligence and memory**.
+
+We’re building a product where AI doesn’t just answer questions, and spaced repetition doesn’t just schedule reviews — instead, both work together to help you actually understand, retain, and grow over time.
+
+This is not a collection of tools.
+It’s a system for thinking.
 
 ---
 
-## 🌱 Ethos (what we believe in)
+## 🌱 What We Believe
 
-* **Ask good questions** – Curiosity drives everything we do.
-* **People first, AI second** – Our tech is here to *help*, not *replace*.
-* **Simple, but not shallow** – Clean UI. Deep ideas under the hood.
-* **We care** – About design, experience, and the people using our tools.
-* **Make new things** – We’re not here to remix what's already out there.
+### Learning compounds when memory and reasoning cooperate
+
+Understanding without retention fades.
+Retention without understanding stagnates.
+
+Avenire treats these as one system.
+
+### AI should think *with* you
+
+Not replace effort, not dump answers — but guide, adapt, and explain in ways that match how you think.
+
+### Structure enables creativity
+
+Good constraints unlock deeper exploration. We design strong internal structure so the surface can stay calm and flexible.
+
+### Simple on the outside, serious underneath
+
+Avenire looks minimal, but it runs on real models, real algorithms, and deliberate design choices.
+
+### Build what doesn’t exist yet
+
+We’re not cloning existing study tools. We’re designing new primitives for learning itself.
 
 ---
 
-## 🔭 Vision (what we’re aiming for)
+## 🧠 What Avenire Is Building
 
-We’re building a future where learning feels natural, fun, and smart.
-Think: interactive explainers, AI that *gets* how you think, and tools that actually help you grow — whether you're a student, researcher, or just a curious mind.
+### 🧩 Advanced Spaced Repetition (Core)
 
-If it helps you learn, think, or explore better, we want to build it.
+A next-generation memory system that goes beyond traditional flashcard scheduling.
+
+It models:
+
+* stability and difficulty over time
+* recall probability and decay
+* adaptive review pressure
+* contextual and behavioral signals
+* long-term retention dynamics
+
+The goal is not “review more,” but **review at the right moment, in the right way**.
 
 ---
 
-## ✍️ From the Founder (hey, that’s me)
+### 🤖 AI, deeply integrated
 
-Hey there — I’m the one who started Avenire.
+AI in Avenire is not a bolt-on feature — it operates inside the learning loop.
 
-This began because I got tired of boring, passive learning tools.
-I wanted something that felt more *alive*, more *personal*, and less like I was just being talked at.
+It helps:
 
-Avenire is me trying to build tools that think *with* you — not just *for* you. Tools that feel like a conversation, not a lecture.
+* generate and refine explanations
+* adapt difficulty and phrasing
+* surface connections between ideas
+* guide reasoning step-by-step
+* respond to how you interact, not just what you ask
 
-If that clicks with you — awesome. You’re kinda part of this now :)
+AI and spaced repetition inform each other continuously.
+
+---
+
+### 🧱 Unified Learning Objects
+
+Everything lives inside a shared structure:
+
+* notes
+* flashcards
+* quizzes
+* explanations
+* diagrams
+* runnable snippets
+
+These aren’t separate tools — they’re different views of the same underlying knowledge, all participating in memory and reasoning.
+
+---
+
+### 🎛 Interactive Learning Environment
+
+Learning happens through interaction:
+
+* whiteboards and sketches
+* graphs and visualizations
+* structured writing
+* executable logic
+
+You don’t just recall facts — you manipulate ideas.
+
+---
+
+### 📈 Meaningful Progress
+
+Progress is modeled, not gamified.
+
+You see:
+
+* stability growth
+* retention curves
+* conceptual coverage
+* consistency over time
+
+The system tracks how understanding evolves, not just activity.
+
+---
+
+## 🧭 Long-Term Direction
+
+Avenire is becoming a **memory-first thinking system** — a place where:
+
+* AI adapts to how you reason
+* knowledge compounds naturally
+* learning artifacts stay useful long-term
+* understanding becomes durable
+
+Spaced repetition is the backbone.
+AI is the nervous system.
+Together, they form a coherent learning engine.
+
+---
+
+## 🧑‍🚀 From the Founder
+
+I started Avenire because learning tools always felt fragmented — one app for memory, another for explanations, another for thinking.
+
+I wanted a system where these things weren’t separate.
+Where memory and reasoning supported each other naturally.
+
+Avenire is my attempt to build that system carefully, from first principles.
+
+If this resonates with you, you’re already part of what this is becoming.
 
 — **Abhiram Damodara**
-Founder of Avenire
+Founder, Avenire
 
 ---
 
-## 🚧 What we’re building
+## 🤝 Join In
 
-* **Deep Research** – Smarter web search with actual synthesis and clarity.
-* **Thinking** – A step-by-step reasoning engine that doesn’t just give answers, it explains.
-* **Interactive Learning** – Play with graphs, scribble on whiteboards, and *get* concepts.
-* **AI Video Explanations** – Custom videos that explain things the way you need them explained.
+If you’re interested in:
 
----
+* learning systems
+* spaced repetition research
+* AI-assisted reasoning
+* cognitive tooling
+* thoughtful product design
 
-## 🤝 Join us
+you’re very welcome here.
 
-If you vibe with this, check out our projects, star the stuff you like, or say hi.
-We're always open to ideas, collabs, and weird-but-cool experiments.
+Avenire is early — but intentional.
 
-Let’s build something different.
+Let’s build something that helps people think better.
